@@ -1,0 +1,6 @@
+{
+  "logToFile": true,
+  "debug": true,
+  "logPath": "../debug.log",
+  "port": 8009
+}
