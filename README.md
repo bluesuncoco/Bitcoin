@@ -117,6 +117,10 @@ command line example are lying on the test_cli.sh in bitcoinAdressMin.
 ## Others
 The bech32 encoding work is from [sipa](https://github.com/sipa/bech32/tree/master/ref/javascript).
 
+## TODO
+1. rewrite the nodejs server to typescript (with help of types).
+2. add p2sh version of p2wpkh address.
+
 ## License
 
 
