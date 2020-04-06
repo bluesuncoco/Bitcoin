@@ -85,8 +85,10 @@ response format：
   | ------- | ------------ | -------- | ----------------------------- |
   | m     | integer       | yes |number of required private key to spend the coin|
   | n | string | yes       | total number of ppl in this address |
-| pubkeys | array | yes       | public keys |
-| pubkeys->key | string | yes       | valic secp256k1 public key either in compressed or uncompressed format |
+  | pubkeys | array | yes       | public keys |
+  | pubkeys->key | string | yes       | valic secp256k1 public key either in compressed or uncompressed format |
+  
+  
   example
 
 ```json
